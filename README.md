@@ -1,3 +1,25 @@
+![1screencapture-dashboard](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/a31d742f-b76c-4744-b66e-335883a61e3b)
+![2screencapture-logout](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/54fed413-33bc-4a00-a3e5-6ed1584e4239)
+![3screencapture-pos](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/868622c2-1563-4bec-ad41-da8465ca28cb)
+![4screencapture-create-invoice](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/9bb084ff-d342-4539-b87d-bc9f768baf95)
+![5screencapture-admin-profile](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/226e0277-ea27-48b4-a1f2-eedecfa838fd)
+![6screencapture-all-permission](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/fdbe8c19-5a17-4533-986c-0141e5dbd9c7)
+![7screencapture-all-roles](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/5e689360-4bfc-4f83-8a43-979b3141ffd3)
+![8screencapture-all-roles-permission](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/2b4d75d3-8507-4f09-a420-1a5be3459fce)
+![9screencapture-all-admin](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/93106226-5310-4780-8b54-e21a1346f956)
+![10screencapture-add-admin](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/5690eeee-2140-4b6f-b823-65c3f54c2ce6)
+![11screencapture-all-employee](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/5f8a999c-f6e7-4f91-8885-e4d9cda2d649)
+![12screencapture-edit-employee](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/5edb739a-bba1-438c-8e3a-e8aca5ac7c02)
+![13screencapture-all-employee](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/aa9eb000-4c48-47a2-9329-e4a36ed3562b)
+![14screencapture-add-employee](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/3ed531fb-7bda-41e9-ad26-e7d93521cc05)
+![15screencapture-all-supplier](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/8cf3be4f-745e-4a2a-8e7f-3144893c0e42)
+![16screencapture-pay-salary](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/de981062-c69c-4cac-9526-7465293ca952)
+![17screencapture-add-advance-salary](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/6f2dbcf1-da66-4dab-90bf-754b1fc2361a)
+![18screencapture-all-product](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/7df24333-08f4-4cde-bc9a-f5444a068dbb)
+![19screencapture-import-product](https://github.com/andreiclcosa93/employer_dashboard_laravel/assets/100482638/4582294b-426a-4ca0-bba5-d62c6813db23)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
